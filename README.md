@@ -21,9 +21,9 @@ Hi, my dear Friends! Я Энни, мне 16 лет, я введу этот ка�
 Занимайся любимым делом, развивайся и веселись. У тебя все получится, Я и Фсоки в тебя верим!
 
    <p align="left">
-      <a href="https://www.youtube.com/c/Энни?sub_confirmation=1">
+      <a href="https://www.youtube.com/channel/UCCLWwEOta4dYY9PpCo8QqpQ?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCeiC2G8vcz6tBmvVo8ydMgQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/Энни">
+      <a href="https://www.youtube.com/channel/UCCLWwEOta4dYY9PpCo8QqpQ">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCeiC2G8vcz6tBmvVo8ydMgQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/The-Annie?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Fsoky?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -59,7 +59,7 @@ Hi, my dear Friends! Я Энни, мне 16 лет, я введу этот ка�
 -->
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/Энни?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCCLWwEOta4dYY9PpCo8QqpQ?sub_confirmation=1)
 
 #
 
